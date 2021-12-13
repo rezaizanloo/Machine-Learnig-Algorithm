@@ -1,9 +1,9 @@
 # Machine-Learnig-Algorithm
 
 Nueral networks:
-  Nearest neighbor
-  Two-classPerceptron 
-  Multi-classPerceptron
+  1. Nearest neighbor
+  2. Two-classPerceptron 
+  3. Multi-classPerceptron
   
   
 Deep neural networks
